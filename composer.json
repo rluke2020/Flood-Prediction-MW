@@ -1,0 +1,18 @@
+{
+    "name": "ariel/flood-prediction-mw",
+    "require": {
+        "ext-mbstring": "*",
+        "ext-json": "*",
+        "php-ai/php-ml": "^0.10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ariel\\FloodPredictionMw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "richardluke"
+        }
+    ]
+}
