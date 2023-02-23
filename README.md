@@ -5,5 +5,5 @@ This project aims to predict flood events in Malawi using data analysis and mach
 
 ### Prerequisites
 Python 3.x
-PHP 7.x
+PHP 8.x
 MySQL 5.x
