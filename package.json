@@ -1,0 +1,30 @@
+{
+  "name": "floodpredictionmw",
+  "version": "1.0.0",
+  "description": "predicting floods in malawi",
+  "main": "index.php",
+  "scripts": {
+    "start": "node index.php"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.3"
+  },
+  "devDependencies": {},
+ 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rluke2020/Flood-Prediction-MW.git"
+  },
+  "keywords": [
+    "randomforestclassifier",
+    "GradientBoostingclassifier",
+    "fllods",
+    "malawi"
+  ],
+  "author": "richard luke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rluke2020/Flood-Prediction-MW/issues"
+  },
+  "homepage": "https://github.com/rluke2020/Flood-Prediction-MW#readme"
+}
