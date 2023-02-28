@@ -2,7 +2,7 @@
   "name": "floodpredictionmw",
   "version": "1.0.0",
   "description": "predicting floods in malawi",
-  "main": "index.php",
+  "main": "home.php",
   "scripts": {
     "start": "node index.php"
   },

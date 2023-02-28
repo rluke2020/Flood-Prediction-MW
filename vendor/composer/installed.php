@@ -3,7 +3,7 @@
         'name' => 'ariel/flood-prediction-mw',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '2740ba5e25a4ac22be7f3c62149753f263baa0dd',
+        'reference' => 'b8456bfc53a64c657d948ceeb2f6e43f40c5e542',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'ariel/flood-prediction-mw' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '2740ba5e25a4ac22be7f3c62149753f263baa0dd',
+            'reference' => 'b8456bfc53a64c657d948ceeb2f6e43f40c5e542',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

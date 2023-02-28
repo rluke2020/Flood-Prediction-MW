@@ -52,7 +52,7 @@ plt.title("Map of Malawi showing the districts(towns/cities)")
 # Show the map
 plt.show();
 
-# check for ,issing values
+# check for missing values
 print('Missing Value Counts:')
 print(df.isna().sum())
 
@@ -107,7 +107,7 @@ plt.title('Rivers with the Most Flooding Incidents')
 plt.xticks(rotation=45)
 plt.show();
 
-#plotting the history of flooding in malawi using a map and heat signatures
+# plotting the history of flooding in malawi using a map and heat signatures
 data = df[["Longitude","Latitude","year", "flooding"]]
 
 # Create a new figure and axis with Basemap projection
